@@ -1,20 +1,24 @@
 # Firewall_xxi
 
-Screenshots of the **Sentinel Firewall** admin console — the main menu, sidebar and a few key pages.
-All data shown is invented demo data.
+Screenshots of the **Sentinel Firewall** admin console: the main dashboard and the most important features.
+All data shown is invented demo data and simulated traffic.
 
-## Screenshots
+## Dashboard
 
-### Main menu and sidebar
+![Control center dashboard](screenshots/01-dashboard-control-center.png)
+
+## Main features
 
 | | |
 |---|---|
-| ![Control center with Monitor & analyze and Protect menus](screenshots/01-control-center-monitor-protect.png) | ![Configure and System menus](screenshots/02-configure-system-menu.png) |
-| Control center — Monitor & analyze and Protect menus | Configure and System menus |
-| ![Firewall rules](screenshots/03-firewall-rules.png) | ![Site-to-site VPN](screenshots/04-site-to-site-vpn.png) |
-| Rules and policies — Firewall rules | Site-to-site VPN |
-| ![Compact icon rail](screenshots/05-compact-icon-rail.png) | |
-| Compact icon-only sidebar | |
+| ![Firewall rules](screenshots/02-firewall-rules.png) | ![NAT rules](screenshots/03-nat-rules.png) |
+| **Firewall rules** — ordered rules in groups, with zones, networks, services and status | **NAT rules** — source NAT, port forwarding (DNAT) and linked NAT |
+| ![Intrusion prevention](screenshots/04-intrusion-prevention-ips-policies.png) | ![Web filtering](screenshots/05-web-filtering-policies.png) |
+| **Intrusion prevention** — IPS policies | **Web filtering** — web policies by user, category and schedule |
+| ![Live connections](screenshots/06-live-connections.png) | ![Site-to-site VPN](screenshots/07-site-to-site-vpn.png) |
+| **Live connections** — applications, users and bandwidth in real time | **Site-to-site VPN** — IPsec tunnels |
+| ![Network interfaces](screenshots/08-network-interfaces.png) | ![Log viewer](screenshots/09-log-viewer.png) |
+| **Network** — interfaces and zones | **Log viewer** — firewall, security and system logs |
 
 ## Feedback
 
