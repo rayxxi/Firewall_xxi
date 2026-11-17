@@ -20,6 +20,12 @@ All data shown is invented demo data and simulated traffic.
 | ![Network interfaces](screenshots/08-network-interfaces.png) | ![Log viewer](screenshots/09-log-viewer.png) |
 | **Network** — interfaces and zones | **Log viewer** — firewall, security and system logs |
 
+### Mobile
+
+<img src="screenshots/10-mobile-menu-drawer.png" alt="Mobile menu drawer" width="300">
+
+The sidebar becomes a slide-out drawer on phones and small screens.
+
 ## Feedback
 
 Comments and ideas are welcome in [Discussions](../../discussions); report problems in [Issues](../../issues).
