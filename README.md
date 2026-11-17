@@ -1,7 +1,11 @@
 # Firewall_xxi
 
-Screenshots of the **Sentinel Firewall** admin console: the main dashboard and the most important features.
+Screenshots of the **Ravelin Firewall** admin console: the main dashboard and the most important features.
 All data shown is invented demo data and simulated traffic.
+
+## Sign-in
+
+![Sign-in page](screenshots/00-login.png)
 
 ## Dashboard
 
