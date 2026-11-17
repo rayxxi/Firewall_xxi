@@ -5,20 +5,26 @@ All data shown is invented demo data and simulated traffic.
 
 ## Dashboard
 
-![Control center dashboard](screenshots/01-dashboard-control-center.png)
+![Security overview dashboard](screenshots/01-security-overview.png)
 
 ## Main features
 
 | | |
 |---|---|
-| ![Firewall rules](screenshots/02-firewall-rules.png) | ![NAT rules](screenshots/03-nat-rules.png) |
-| **Firewall rules** — ordered rules in groups, with zones, networks, services and status | **NAT rules** — source NAT, port forwarding (DNAT) and linked NAT |
-| ![Intrusion prevention](screenshots/04-intrusion-prevention-ips-policies.png) | ![Web filtering](screenshots/05-web-filtering-policies.png) |
-| **Intrusion prevention** — IPS policies | **Web filtering** — web policies by user, category and schedule |
-| ![Live connections](screenshots/06-live-connections.png) | ![Site-to-site VPN](screenshots/07-site-to-site-vpn.png) |
-| **Live connections** — applications, users and bandwidth in real time | **Site-to-site VPN** — IPsec tunnels |
-| ![Network interfaces](screenshots/08-network-interfaces.png) | ![Log viewer](screenshots/09-log-viewer.png) |
-| **Network** — interfaces and zones | **Log viewer** — firewall, security and system logs |
+| ![Policy rules](screenshots/02-policy-rules.png) | ![NAT rules](screenshots/03-nat-rules.png) |
+| **Policy rules** — ordered firewall rules in groups, with zones, networks, services and status | **NAT rules** — source NAT, port forwarding (DNAT) and linked NAT |
+| ![Threat prevention](screenshots/04-threat-prevention-ips.png) | ![Web filtering](screenshots/05-web-filtering.png) |
+| **Threat prevention (IPS)** — prevention policies | **Web filtering** — web policies by user, category and schedule |
+| ![Live activity](screenshots/06-live-activity.png) | ![Branch VPN tunnels](screenshots/07-branch-vpn-tunnels.png) |
+| **Live activity** — applications, users and bandwidth in real time | **Branch VPN tunnels** — IPsec site-to-site tunnels |
+| ![Interfaces and zones](screenshots/08-interfaces-and-zones.png) | ![Event logs](screenshots/09-event-logs.png) |
+| **Interfaces & zones** — ports, VLANs, LAG and zones | **Event logs** — firewall, security and system logs |
+
+### Licensing
+
+![Licensing](screenshots/11-licensing.png)
+
+Signed, time-based licences with per-module subscription terms, days left and the appliance ID.
 
 ### Mobile
 
